@@ -1,1 +1,0 @@
-# solid-lamp. I started the web development course and halted it for a reason. I am learning Python now. I have also uploaded the repos and files and after finishing my course with Python which will go till I become ML engineer; I shall start web development course.
