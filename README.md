@@ -1,5 +1,5 @@
 # web-dev
 <br> 
-this is the course for web development full stack. This is expected start from Dec 2025
+This is a full stack web development course. This is expected to start from December 2025
 <br>
 Author: Sumit Saluja
